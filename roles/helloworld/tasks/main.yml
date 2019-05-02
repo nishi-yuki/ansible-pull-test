@@ -1,0 +1,7 @@
+- name: hlo
+  debug:
+    msg: hello
+
+- name: wrd
+  debug:
+    msg: world!

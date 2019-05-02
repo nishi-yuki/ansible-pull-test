@@ -1,0 +1,4 @@
+---
+- hosts: localpc
+  roles:
+    - helloworld
